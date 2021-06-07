@@ -1,0 +1,1004 @@
+{
+  "tests": [
+    {
+      "name": "media_ponderada_1",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "0.279\r\n5.687\r\n0.916\r\n4.745",
+      "output": "3.399",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_2",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "8.156\r\n1.34\r\n0.037\r\n5.194",
+      "output": "4.025",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_3",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "8.957\r\n1.404\r\n5.213\r\n5.53",
+      "output": "4.876",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_4",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "0.813\r\n3.72\r\n6.546\r\n7.787",
+      "output": "3.944",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_5",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "2.038\r\n4.105\r\n8.537\r\n1.673",
+      "output": "3.442",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_6",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "5.295\r\n5.953\r\n0.039\r\n5.361",
+      "output": "5.046",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_7",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "3.78\r\n7.113\r\n3.421\r\n2.415",
+      "output": "4.804",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_8",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "5.551\r\n2.707\r\n8.332\r\n2.974",
+      "output": "4.176",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_9",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "2.662\r\n7.188\r\n6.344\r\n0.968",
+      "output": "4.502",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_10",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "4.227\r\n3.432\r\n9.225\r\n9.121",
+      "output": "5.388",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_11",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "1.719\r\n4.142\r\n9.138\r\n2.901",
+      "output": "3.667",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_12",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "6.768\r\n8.864\r\n6.95\r\n6.011",
+      "output": "7.473",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_13",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "4.075\r\n2.46\r\n9.813\r\n6.4",
+      "output": "4.468",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_14",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "0.57\r\n8.127\r\n5.765\r\n1.813",
+      "output": "4.361",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_15",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "0.95\r\n0.108\r\n3.46\r\n0.597",
+      "output": "0.794",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_16",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "2.656\r\n7.616\r\n3.751\r\n0.009",
+      "output": "4.220",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_17",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "3.077\r\n1.382\r\n2.206\r\n3.295",
+      "output": "2.356",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_18",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "1.148\r\n7.375\r\n1.458\r\n2.376",
+      "output": "3.915",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_19",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "7.395\r\n8.444\r\n0.685\r\n8.566",
+      "output": "7.378",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_20",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "6.075\r\n6.389\r\n2.771\r\n3.608",
+      "output": "5.377",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_21",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "8.516\r\n0.878\r\n5.264\r\n9.889",
+      "output": "5.410",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_22",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "2.72\r\n2.811\r\n6.346\r\n0.31",
+      "output": "2.637",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_23",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "9.716\r\n2.407\r\n6.614\r\n5.038",
+      "output": "5.547",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_24",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "3.494\r\n2.012\r\n2.305\r\n6.523",
+      "output": "3.388",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "media_ponderada_25",
+      "setup": "",
+      "run": "python media_ponderada.py",
+      "input": "8.056\r\n7.008\r\n0.375\r\n8.367",
+      "output": "6.931",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_1",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "44.655\r\n28.483",
+      "output": "51.701",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_2",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "38.614\r\n32.198",
+      "output": "43.986",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_3",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "32.442\r\n49.823",
+      "output": "36.073",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_4",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "-0.979\r\n30.774",
+      "output": "-7.833",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_5",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "39.779\r\n7.675",
+      "output": "43.942",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_6",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "26.371\r\n19.668",
+      "output": "28.038",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_7",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "14.171\r\n37.91",
+      "output": "11.639",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_8",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "-0.674\r\n30.195",
+      "output": "-7.373",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_9",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "35.403\r\n44.714",
+      "output": "40.022",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_10",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "22.139\r\n6.046",
+      "output": "23.423",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_11",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "44.32\r\n43.859",
+      "output": "52.023",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_12",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "37.142\r\n29.573",
+      "output": "41.975",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_13",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "17.483\r\n23.902",
+      "output": "16.611",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_14",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "20.845\r\n36.489",
+      "output": "20.554",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_15",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "12.497\r\n31.8",
+      "output": "9.729",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_16",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "28.669\r\n35.786",
+      "output": "30.933",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_17",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "20.974\r\n38.613",
+      "output": "20.676",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_18",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "42.886\r\n29.432",
+      "output": "49.453",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_19",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "34.945\r\n30.193",
+      "output": "39.126",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_20",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "30.804\r\n23.845",
+      "output": "33.666",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_21",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "17.852\r\n31.978",
+      "output": "16.744",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_22",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "43.972\r\n33.071",
+      "output": "51.064",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_23",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "5.951\r\n14.423",
+      "output": "3.009",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_24",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "-0.818\r\n40.726",
+      "output": "-8.550",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sensacao_termica_25",
+      "setup": "",
+      "run": "python sensacao_termica.py",
+      "input": "13.71\r\n27.973",
+      "output": "11.529",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_1",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "287.461\r\n0.121\r\n8",
+      "output": "R$756.79",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_2",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "2580.148\r\n0.43\r\n28",
+      "output": "R$437069177.13",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_3",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "9870.843\r\n0.519\r\n31",
+      "output": "R$95877822839.40",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_4",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "9520.897\r\n0.442\r\n35",
+      "output": "R$49798183581.05",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_5",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "3159.849\r\n0.294\r\n7",
+      "output": "R$24742.55",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_6",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "5256.921\r\n0.023\r\n10",
+      "output": "R$6616.36",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_7",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "2947.281\r\n0.069\r\n34",
+      "output": "R$30780.55",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_8",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "6815.279\r\n0.583\r\n11",
+      "output": "R$4155412.60",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_9",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "4167.277\r\n0.491\r\n13",
+      "output": "R$2465778.42",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_10",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "1576.152\r\n0.41\r\n7",
+      "output": "R$27798.62",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_11",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "9281.664\r\n0.503\r\n33",
+      "output": "R$150134308444.56",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_12",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "6930.412\r\n0.547\r\n27",
+      "output": "R$17982673394.76",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_13",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "3575.755\r\n0.124\r\n33",
+      "output": "R$214042.87",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_14",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "9333.52\r\n0.272\r\n1",
+      "output": "R$12251.06",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_15",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "2780.23\r\n0.75\r\n12",
+      "output": "R$22528437.03",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_16",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "6421.345\r\n0.023\r\n17",
+      "output": "R$9493.69",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_17",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "5877.857\r\n0.652\r\n9",
+      "output": "R$2078064.56",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_18",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "4867.63\r\n0.537\r\n8",
+      "output": "R$357311.22",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_19",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "5812.765\r\n0.67\r\n24",
+      "output": "R$55954888483.91",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_20",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "7332.271\r\n0.319\r\n25",
+      "output": "R$21317535.81",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_21",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "1847.031\r\n0.623\r\n17",
+      "output": "R$73466109.60",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_22",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "7599.68\r\n0.404\r\n2",
+      "output": "R$17049.25",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_23",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "7834.281\r\n0.603\r\n24",
+      "output": "R$15104588108.66",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_24",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "1690.619\r\n0.262\r\n34",
+      "output": "R$12495136.08",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "juros_compostos_25",
+      "setup": "",
+      "run": "python juros_compostos.py",
+      "input": "6299.031\r\n0.211\r\n33",
+      "output": "R$6656810.95",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_1",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "27\r\n4\r\n1990",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_2",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "11\r\n6\r\n2000",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_3",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "27\r\n1\r\n1976",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_4",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "14\r\n7\r\n2009",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_5",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "13\r\n8\r\n1998",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_6",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "20\r\n1\r\n2050",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_7",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "22\r\n5\r\n2000",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_8",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "2\r\n7\r\n1998",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_9",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "26\r\n6\r\n1922",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_10",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "20\r\n12\r\n1922",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_11",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "24\r\n5\r\n2079",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_12",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "4\r\n7\r\n1957",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_13",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "23\r\n2\r\n1917",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_14",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "3\r\n5\r\n1993",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_15",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "6\r\n9\r\n1925",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_16",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "24\r\n8\r\n2080",
+      "output": "6",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_17",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "16\r\n8\r\n1944",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_18",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "7\r\n7\r\n1946",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_19",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "25\r\n9\r\n1935",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_20",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "24\r\n9\r\n2017",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_21",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "15\r\n10\r\n2059",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_22",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "17\r\n3\r\n1935",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_23",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "7\r\n11\r\n2065",
+      "output": "6",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_24",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "16\r\n12\r\n1991",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "dia_semana_25",
+      "setup": "",
+      "run": "python dia_semana.py",
+      "input": "12\r\n9\r\n2044",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
